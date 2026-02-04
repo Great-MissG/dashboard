@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas>=2.0
+plotly>=5.18
+gspread>=5.10
+google-auth>=2.22
+numpy>=1.24
+pgeocode>=0.4
